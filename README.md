@@ -118,6 +118,16 @@ A hands-on security operations lab designed to develop practical skills in SIEM 
 
 - CompTIA CySA+ (Cybersecurity Analyst)
 
+## 🚀 Future Detection Log Analysis
+
+- [ ] Detect Sensitive Files
+- [ ] WinRM Logon
+- [ ] Password Spraying
+- [ ] Credential Stuffing
+- [ ] Kerberoasting
+- [ ] Pass the Hash attack
+- [ ] Linux Sudo Exploitation
+
 ## 🚀 Future Enhancements
 
 - [ ] Integrate additional detection rules for Windows Event Logs
